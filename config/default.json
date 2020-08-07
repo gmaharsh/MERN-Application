@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://gmaharsh:admin123@mern.a9b0y.mongodb.net/user?retryWrites=true&w=majority",
+    "jwtSecret" : "jsonwebtokens"
+}

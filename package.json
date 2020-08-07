@@ -1,0 +1,12 @@
+{
+  "name": "mern-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app",
+    "app" : "nodemon app"
+  },
+  "author": "Maharsh Hetal Gheewala",
+  "license": "MIT"
+}
